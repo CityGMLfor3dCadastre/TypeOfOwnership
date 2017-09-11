@@ -1,4 +1,5 @@
-<!-- Lista kodova navodi vrijednosti atributa za "RoofType" (tip krova) klase "_AbstractBuilding" u modulu "building".
+
+<!-- Lista kodova navodi vrijednosti atributa za "TypeOfOwnership" (vrstu svojine) klase "_AbstractBuilding" u modulu "building".
 Jednostavan rjecnik GML 3.1.1 se koristi za predstavljanje vrijednosti (element "ime") i (od strane covjeka za citanje), 
 opisi (element "opis") ovih vrijednosti su u ovoj datoteci. Vrijednosti se koriste u primjerima dokumenata. -->
 
