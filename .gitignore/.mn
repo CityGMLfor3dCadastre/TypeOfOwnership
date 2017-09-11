@@ -1,11 +1,13 @@
 <!-- Lista kodova navodi vrijednosti atributa za "RoofType" (tip krova) klase "_AbstractBuilding" u modulu "building".
 Jednostavan rjecnik GML 3.1.1 se koristi za predstavljanje vrijednosti (element "ime") i (od strane covjeka za citanje), 
 opisi (element "opis") ovih vrijednosti su u ovoj datoteci. Vrijednosti se koriste u primjerima dokumenata. -->
+
 <gml:Dictionary
 	xmlns:gml="http://www.opengis.net/gml"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/gml 
 	http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd"
 	gml:id="_AbstractBuilding_TypeOfOwnership">
+	
 	<gml:name>_AbstractBuilding_TypeOfOwnership</gml:name>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id1">
@@ -56,6 +58,4 @@ opisi (element "opis") ovih vrijednosti su u ovoj datoteci. Vrijednosti se koris
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
-
-
 
